@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="2048NewVersion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/2048NewVersion_jar</output-path>
+    <root id="archive" name="2048NewVersion.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resource/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="2048NewVersion" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../sqlite-jdbc-3.8.7.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/Images" />
+    </root>
+  </artifact>
+</component>
